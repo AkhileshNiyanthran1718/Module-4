@@ -1,3 +1,5 @@
+
+
 # Classes and Objects in Python: Calculate the Area of a Circle
 
 ## 🎯 Aim
@@ -31,6 +33,7 @@ obj.mech(r)
 ## Output
 
 
+<img width="955" height="240" alt="438326712-732d2ade-138c-4452-af08-c761fa1b92fd" src="https://github.com/user-attachments/assets/54b61c1f-729d-4b95-aa6e-98d98bdabcf1" />
 
 
 ## Result
